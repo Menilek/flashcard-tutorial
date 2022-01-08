@@ -32,3 +32,18 @@
     justify-content: center;
     align-items: center;
 }
+
+.red {
+    background-color: red !important;
+    color: white !important;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;
+}
