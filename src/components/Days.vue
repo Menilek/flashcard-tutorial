@@ -59,7 +59,7 @@ const dayToShow = (day) => !isWordRevealed(day) ? day : findKey(FrenchDays, day)
     <h2>Days</h2>
     <Carousel :itemsToShow="2" :wrapAround="true">
         <Slide v-for="day in FrenchDays" :key="day">
-            <div class="carousel__item red" @click="toggle(day)">{{ dayToShow(day) }}</div>
+            <div class="carousel__item" @click="toggle(day)">{{ dayToShow(day) }}</div>
         </Slide>
         <template #addons>
             <Navigation />

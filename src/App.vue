@@ -1,9 +1,11 @@
 <script setup>
   import Days from './components/Days.vue'
+  import Months from './components/Months.vue'
 </script>
 
 <template>
   <Days />
+  <Months />
 </template>
 
 <style>
