@@ -5,9 +5,9 @@
 
 ## Description
 
-This project serves as an introduction to Vue 3 and Vite and accompanies a tutorial article on how to build the application available [here](https://dev.to/menilek).
+This project serves as an introduction to Vue 3 and Vite and accompanies a tutorial article on how to build the application available [here](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7).
 
-## Table of Contents 
+## Table of Contents
 
 * [Installation](#installation)
 
@@ -21,7 +21,7 @@ This project serves as an introduction to Vue 3 and Vite and accompanies a tutor
 
 To install necessary dependencies, run the following command:
 ```
-npm i
+npm install
 ```
 ## License
 
@@ -34,5 +34,5 @@ Contributions are more than welcome. Please create a pull request with supportin
 
 ## Questions
 
-If you have any questions about the repo, open an issue. You can find more of my work [here](https://github.com/Menilek/) at Github or follow my writing here at Dev.to [here](https://dev.to/menilek).
+If you have any questions about the repo, please open an issue. You can follow my writing at [Dev.to](https://dev.to/menilek) and contact me via [LinkedIn](https://www.linkedin.com/in/menilek-techane/).
 
