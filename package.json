@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.4.0",
+    "vite-plugin-pwa": "^0.16.5",
     "vite": "^4.5.0"
   }
 }
