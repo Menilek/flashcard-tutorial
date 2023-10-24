@@ -1,11 +1,13 @@
-# French FlashCard Carousel
+# French Flashcard Carousel
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ![A French flashcard deck](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b90igvpzvdxsr8nzikwj.gif)
 
 ## Description
 
-This project serves as an introduction to Vue 3 and Vite and accompanies a tutorial article on how to build the application available [here](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7).
+This project serves as an introduction to Vue 3, Vite and Vercel. It accompanies a tutorial article on how to build the application available [here](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7).
+
+Once the app is running a second tutorial is available that converts the web app into a PWA available [here](www.insertlink.com).
 
 ## Table of Contents
 
